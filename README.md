@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-🔬 **PhD in Computer Science - Natural Language Processing**, Faculty of Mathematics / University of Belgrade  
+🎓 **PhD in Computer Science - Natural Language Processing**, Faculty of Mathematics / University of Belgrade  
 🤖 Developing and applying machine learning methods in natural language processing (english/serbian)  
 📊 Computational linguistics · Semantic knowledge bases · LLMs · Scientific computing         
 
@@ -64,9 +64,8 @@ Here are some ideas to get you started:
 **Best ways to connect:**
 - 📧 **Email:** milena.sosic@gmail.com (Preferred)
 - 💼 **LinkedIn:** [Milena Šošić](https://linkedin.com/in/milena-sosic)
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/925f613b-582d-4e5a-88f2-85b5bd351529" />
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000-0002-9949-9686?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9949-9686)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-sosic/)
 
 
 **Also find me on:**
