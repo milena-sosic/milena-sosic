@@ -1,6 +1,7 @@
-## Hi there 👋 
+
 
 <!--
+## Hi there 👋 
 **milena-sosic/milena-sosic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-🔬 **PhD in Computer Science - Natural Language Processing** at Faculty of Mathematics / University of Belgrade  
+🔬 **PhD in Computer Science - Natural Language Processing**, Faculty of Mathematics / University of Belgrade  
 🤖 Developing and applying machine learning methods in natural language processing (english/serbian)  
 📊 Computational linguistics · Semantic knowledge bases · LLMs · Scientific computing         
 
@@ -41,7 +42,6 @@ Here are some ideas to get you started:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F50057?style=for-the-badge&logo=huggingface&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge)
@@ -54,6 +54,9 @@ Here are some ideas to get you started:
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-34C759?style=for-the-badge)
 ![LLaMA](https://img.shields.io/badge/LLaMA-007BFF?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini-FF5B00?style=for-the-badge)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 
 ## 📫 How to reach me:
