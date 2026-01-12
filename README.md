@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ## 📫 How to reach me:
 
 **Best ways to connect:**
-- 📧 **Email:** milena.sosic [at] gmail . com (Preferred)
+- 📧 **Email:** milena.sosic@gmail.com (Preferred)
 - 💼 **LinkedIn:** [Milena Šošić](https://linkedin.com/in/milena-sosic)
 - 🐙 **GitHub:** [@milena-sosic](https://github.com/milena-sosic)
 
