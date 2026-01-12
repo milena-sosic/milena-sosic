@@ -28,20 +28,32 @@ Here are some ideas to get you started:
 ## 💻 Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![NLTK](https://img.shields.io/badge/NLTK-5C3EE8?style=for-the-badge&logo=nltk&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-4B8BBE?style=for-the-badge&logo=spacy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/Seaborn-4DBD90?style=for-the-badge) 
-![ROOT](https://img.shields.io/badge/ROOT-5D4F85?style=for-the-badge) 
+![Seaborn](https://img.shields.io/badge/Seaborn-4DBD90?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3B4C9A?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Apptainer](https://img.shields.io/badge/Apptainer-7E57C2?style=for-the-badge) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F50057?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1B1B1B?style=for-the-badge)
+![Dspy](https://img.shields.io/badge/Dspy-4EAA25?style=for-the-badge)
+![LangFuse](https://img.shields.io/badge/LangFuse-0DAB6C?style=for-the-badge)
+
+![BERT](https://img.shields.io/badge/BERT-9B59B6?style=for-the-badge)
+![GPT](https://img.shields.io/badge/GPT-00ADEF?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-34C759?style=for-the-badge)
+![LLaMA](https://img.shields.io/badge/LLaMA-007BFF?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-FF5B00?style=for-the-badge)
 
 
 ## 📫 How to reach me:
