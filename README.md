@@ -64,7 +64,6 @@ Here are some ideas to get you started:
 **Best ways to connect:**
 - 📧 **Email:** milena.sosic@gmail.com (Preferred)
 - 💼 **LinkedIn:** [Milena Šošić](https://linkedin.com/in/milena-sosic)
-- 🐙 **GitHub:** [@milena-sosic](https://github.com/milena-sosic)
 
 **Also find me on:**
 - 🌐 [Personal Website](https://milena-sosic.github.io)
