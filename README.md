@@ -65,6 +65,10 @@ Here are some ideas to get you started:
 - 📧 **Email:** milena.sosic@gmail.com (Preferred)
 - 💼 **LinkedIn:** [Milena Šošić](https://linkedin.com/in/milena-sosic)
 
+[![ORCID](https://img.shields.io/badge/ORCID-0000-0002-9949-9686?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9949-9686)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-sosic/)
+
+
 **Also find me on:**
 - 🌐 [Personal Website](https://milena-sosic.github.io)
 
