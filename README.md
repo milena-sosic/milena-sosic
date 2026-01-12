@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 **Best ways to connect:**
 - 📧 **Email:** milena.sosic@gmail.com (Preferred)
 - 💼 **LinkedIn:** [Milena Šošić](https://linkedin.com/in/milena-sosic)
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/925f613b-582d-4e5a-88f2-85b5bd351529" />
+- <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/925f613b-582d-4e5a-88f2-85b5bd351529" /> **ORCID:** [Milena Šošić]([https://linkedin.com/in/milena-sosic](https://orcid.org/0000-0002-9949-9686))
 
 
 
